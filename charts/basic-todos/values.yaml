@@ -1,0 +1,10 @@
+replicaCount: 5
+image:
+  repository: "localhost:5000/basic-todos"
+  tag: "latest"
+  pullPolicy: IfNotPresent
+service:
+  type: LoadBalancer
+  port: 5556
+deployment:
+  containerPort: 5555
