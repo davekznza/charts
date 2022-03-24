@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  basic-todos:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-24T10:21:46.660636114Z"
+    description: A Helm chart for Kubernetes
+    digest: a315c22d596744053952cecc153cb1b1c3cbfeb729f1a9b9075ce501fc2953fa
+    name: basic-todos
+    type: application
+    urls:
+    - https://github.com/davekznza/charts/releases/download/basic-todos-0.1.0/basic-todos-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-24T10:21:46.394878637Z"
