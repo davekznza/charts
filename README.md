@@ -1,5 +1,3 @@
-# Charts
-
 Collection of various helm charts. 
 
 ## Usage
